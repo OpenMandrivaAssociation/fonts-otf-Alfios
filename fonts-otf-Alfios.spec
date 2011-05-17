@@ -16,6 +16,7 @@ Group:		System/Fonts/True type
 Url:		http://users.teilar.gr/~g1951d/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
+BuildRequires: fontconfig
 BuildRequires:	mkfontscale, mkfontdir
 
 %description
