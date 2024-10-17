@@ -13,7 +13,7 @@ Release:	%{release}
 Source0:	http://users.teilar.gr/~g1951d/%{fontname}.zip
 License:	Public Domain
 Group:		System/Fonts/True type
-Url:		http://users.teilar.gr/~g1951d/
+Url:		https://users.teilar.gr/~g1951d/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 BuildRequires: fontconfig
